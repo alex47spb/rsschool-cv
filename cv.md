@@ -1,4 +1,4 @@
-Aleksandr Petrov
+Aleksandr Petrov  
 heap.prog@mail.ru
 
 I live in St.Petersburg. My activity is the creation (development and layout) of information systems for museum exhibitions. My goal today is to create information systems rich in multimedia content. http://www.alex-petrov.ru/
